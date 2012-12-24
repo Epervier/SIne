@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NGUI\Scripts\Internal\UIDrawCall.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MenuSystem\MenuSystem.cs" Line="32" Column="3" />
+      <File FileName="Assets\Scripts\SineGame\SineGame.cs" Line="34" Column="4" />
+      <File FileName="Assets\Scripts\SineGame\SineTargetDisplay.cs" Line="4" Column="14" />
+      <File FileName="Assets\Scripts\SineGame\FingerArea.cs" Line="30" Column="1" />
+      <File FileName="Assets\NGUI\Scripts\UI\UIPanel.cs" Line="518" Column="17" />
+      <File FileName="Assets\NGUI\Scripts\Internal\UIDrawCall.cs" Line="304" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
